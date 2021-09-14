@@ -12,7 +12,7 @@ header{
     top: 0.1px;
 }
 
-main {
+main p{
     width: 80%;
     margin: auto;
     background-color: blue;
@@ -52,6 +52,5 @@ table td{
     background-color: blue;
     padding: 20px;
     text-align: center;
-    height: 10000px;
     margin-top: 40px;
 }
